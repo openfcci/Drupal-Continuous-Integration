@@ -1,4 +1,6 @@
-Example scripts and information on continuous integration with Drupal and how it can help solve the dev->staging->production lifecycle.
+Purpose
+-------
+Example scripts and information on continuous integration with Drupal and how FCC is using them to help solve the dev->staging->production lifecycle problem.  They are shared with the community in the hopes that they spark additional interest.
 
 Scripts
 -------
